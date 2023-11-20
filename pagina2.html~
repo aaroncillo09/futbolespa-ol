@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title></title>
+</head>
+<body>
+
+	Texto de prueba
+	
+	<a href="index.html"> <img src="casa.png" alt=""></a>
+
+</body>
+</html>
